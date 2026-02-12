@@ -101,6 +101,7 @@
         "portfolio",
         "my-blog",
         "Harvard-CS50-Course-Selflearning",
-        "NVIDIA-DGX-Spark-hugging_face_llm_full_fine_tune_tutorial-VIDEO"
+        "NVIDIA-DGX-Spark-hugging_face_llm_full_fine_tune_tutorial-VIDEO",
+        "traffic-signs"
     ]
 }
