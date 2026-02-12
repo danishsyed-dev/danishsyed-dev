@@ -32,6 +32,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 | 💰 [**Silver Price Prediction**](https://github.com/danishsyed-dev/Silver-Price-Prediction) | Production ML system for Indian silver market price forecasting | `Python` `Flask` `TensorFlow` |
 | 🏥 [**Cancer Prediction ML Models**](https://github.com/danishsyed-dev/Scrutinizing-ML-Models-for-Cancer-Prediction) | Comparative analysis of ML models for breast cancer classification | `Python` `scikit-learn` `Pandas` |
 | 🤖 [**RAG API**](https://github.com/danishsyed-dev/RAG-API) | Retrieval-Augmented Generation API for intelligent document Q&A | `Python` `LangChain` `FastAPI` |
+| 🚦 [**Traffic Signs Recognition**](https://github.com/danishsyed-dev/traffic-signs) | Deep Learning CNN achieving 99.33% accuracy on traffic sign classification | `Python` `TensorFlow` `CNN` |
 | 🔥 [**Hot Topic Trends**](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends) | NLP-powered Django app for identifying trends in streaming text data | `Python` `Django` `NLP` |
 | 💡 [**Smart Highway Lights**](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM) | IoT-based energy-efficient street lighting with Arduino & sensors | `Arduino` `C++` `IoT` |
 | 😂 [**Meme Matcher**](https://github.com/danishsyed-dev/Meme-Matcher) | Real-time facial expression to meme matching using computer vision | `Python` `OpenCV` `Deep Learning` |
