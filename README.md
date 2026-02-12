@@ -36,9 +36,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 | 🔥 [**Hot Topic Trends**](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends) | NLP-powered Django app for identifying trends in streaming text data | `Python` `Django` `NLP` |
 | 💡 [**Smart Highway Lights**](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM) | IoT-based energy-efficient street lighting with Arduino & sensors | `Arduino` `C++` `IoT` |
 | 😂 [**Meme Matcher**](https://github.com/danishsyed-dev/Meme-Matcher) | Real-time facial expression to meme matching using computer vision | `Python` `OpenCV` `Deep Learning` |
-| 📦 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Recently updated Jupyter Notebook project | `Python` `Jupyter` |
-| 📦 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Recently updated Python project | `Python` |
-| 📦 [**Nvidia Dgx Spark Hugging Face Llm Full Fine Tune Tutorial Video**](https://github.com/danishsyed-dev/NVIDIA-DGX-Spark-hugging_face_llm_full_fine_tune_tutorial-VIDEO) | Recently updated Jupyter Notebook project | `Python` `Jupyter` |
+| 📂 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Player Data Stats project | `Jupyter Notebook` |
+| 🛒 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Ml Sales Prediction project | `Python` `Jupyter Notebook` `CSS` |
+| 📈 [**Pl25 Prediction Ml**](https://github.com/danishsyed-dev/PL25_Prediction_ML) | Pl25 Prediction Ml project | `Python` |
+| 📖 [**Basic Python Network**](https://github.com/danishsyed-dev/Basic-Python-Network) | Basic Python Network project | `Python` |
+| 📂 [**Youtube Transcript**](https://github.com/danishsyed-dev/Youtube_Transcript) | Youtube Transcript project | `Python` |
 <!-- PROJECTS:END -->
 
 ---
@@ -106,12 +108,12 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danishsyed-dev&theme=tokyonight" alt="GitHub Stats" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishsyed-dev&theme=tokyonight" alt="Top Languages" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=danishsyed-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=danishsyed-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danishsyed-dev&theme=tokyonight" alt="GitHub Stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishsyed-dev&theme=tokyonight" alt="Top Languages" height="180"/>
 
 <br/>
 
@@ -121,11 +123,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-![](https://github-trophies.vercel.app/?username=danishsyed-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-?)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danishsyed-dev&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 

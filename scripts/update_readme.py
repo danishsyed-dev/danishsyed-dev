@@ -4,8 +4,9 @@ Auto-update the Featured Projects section of README.md.
 This script:
 1. Reads pinned repos from featured_repos.json (manual entries)
 2. Fetches recent public repos from GitHub API (auto entries)
-3. Merges them (pinned first, then recent — no duplicates)
-4. Regenerates the table between <!-- PROJECTS:START --> and <!-- PROJECTS:END -->
+3. For auto repos: pulls description, emoji from README, languages from API
+4. Merges them (pinned first, then recent — no duplicates)
+5. Regenerates the table between <!-- PROJECTS:START --> and <!-- PROJECTS:END -->
 """
 
 import json
@@ -13,7 +14,7 @@ import os
 import re
 import urllib.request
 import urllib.error
-from datetime import datetime
+import base64
 
 
 GITHUB_USERNAME = "danishsyed-dev"
@@ -25,27 +26,52 @@ CONFIG_PATH = os.path.join(REPO_ROOT, "featured_repos.json")
 START_MARKER = "<!-- PROJECTS:START -->"
 END_MARKER = "<!-- PROJECTS:END -->"
 
-# Default emoji for auto-added repos
-AUTO_EMOJI = "📦"
+# Fallback emoji for auto-added repos when none found in README
+FALLBACK_EMOJI = "📂"
 
-# Language-to-tech mapping for auto-detected repos
-LANGUAGE_MAP = {
-    "Python": ["Python"],
-    "JavaScript": ["JavaScript"],
-    "TypeScript": ["TypeScript"],
-    "Jupyter Notebook": ["Python", "Jupyter"],
-    "HTML": ["HTML", "CSS"],
-    "C++": ["C++"],
-    "C": ["C"],
-    "Java": ["Java"],
-    "Rust": ["Rust"],
-    "Go": ["Go"],
-    "R": ["R"],
+# Common domain-specific emoji mapping
+TOPIC_EMOJI_MAP = {
+    "machine-learning": "🤖",
+    "deep-learning": "🧠",
+    "data-science": "📊",
+    "web": "🌐",
+    "api": "🔌",
+    "iot": "💡",
+    "nlp": "📝",
+    "computer-vision": "👁️",
+    "flask": "🌶️",
+    "django": "🎸",
+    "prediction": "📈",
+    "healthcare": "🏥",
+    "finance": "💰",
+    "game": "🎮",
+    "bot": "🤖",
+    "scraper": "🕷️",
+    "automation": "⚙️",
+    "analytics": "📊",
 }
 
 
+def github_request(url):
+    """Make an authenticated GitHub API request."""
+    req = urllib.request.Request(url)
+    req.add_header("Accept", "application/vnd.github.v3+json")
+    req.add_header("User-Agent", "readme-updater")
+
+    token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
+    if token:
+        req.add_header("Authorization", f"token {token}")
+
+    try:
+        with urllib.request.urlopen(req) as response:
+            return json.loads(response.read().decode())
+    except urllib.error.HTTPError as e:
+        print(f"  ⚠️  API error for {url}: {e.code}")
+        return None
+
+
 def fetch_repos():
-    """Fetch all public repos from GitHub API."""
+    """Fetch all public repos from GitHub API, sorted by most recently pushed."""
     repos = []
     page = 1
 
@@ -54,40 +80,88 @@ def fetch_repos():
             f"https://api.github.com/users/{GITHUB_USERNAME}/repos"
             f"?type=public&sort=pushed&direction=desc&per_page=100&page={page}"
         )
-        req = urllib.request.Request(url)
-        req.add_header("Accept", "application/vnd.github.v3+json")
-        req.add_header("User-Agent", "readme-updater")
-
-        # Use GitHub token if available (avoids rate limits)
-        token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
-        if token:
-            req.add_header("Authorization", f"token {token}")
-
-        try:
-            with urllib.request.urlopen(req) as response:
-                data = json.loads(response.read().decode())
-                if not data:
-                    break
-                repos.extend(data)
-                page += 1
-        except urllib.error.HTTPError as e:
-            print(f"⚠️  GitHub API error: {e.code} - {e.reason}")
+        data = github_request(url)
+        if not data:
             break
+        repos.extend(data)
+        if len(data) < 100:
+            break
+        page += 1
 
     return repos
+
+
+def fetch_repo_languages(repo_name):
+    """Fetch languages used in a repo from GitHub API."""
+    url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{repo_name}/languages"
+    data = github_request(url)
+    if data:
+        # Sort by bytes of code (most used first), take top 3
+        sorted_langs = sorted(data.items(), key=lambda x: x[1], reverse=True)
+        return [lang for lang, _ in sorted_langs[:3]]
+    return []
+
+
+def extract_emoji_from_readme(repo_name):
+    """Fetch the repo's README and extract the first emoji from the heading."""
+    url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{repo_name}/readme"
+    data = github_request(url)
+    if not data or "content" not in data:
+        return None
+
+    try:
+        content = base64.b64decode(data["content"]).decode("utf-8", errors="ignore")
+    except Exception:
+        return None
+
+    # Look for emoji in the first heading (# Title or ## Title)
+    for line in content.split("\n")[:10]:
+        line = line.strip()
+        if line.startswith("#"):
+            # Remove markdown heading markers
+            text = re.sub(r"^#+\s*", "", line)
+            # Extract first emoji (Unicode emoji ranges)
+            emoji_match = re.search(
+                r"[\U0001F300-\U0001F9FF\U00002700-\U000027BF\U0001FA00-\U0001FAFF"
+                r"\U00002600-\U000026FF\U0000FE00-\U0000FEFF\U0001F000-\U0001F02F"
+                r"\U0001F600-\U0001F64F\U0001F680-\U0001F6FF]",
+                text,
+            )
+            if emoji_match:
+                return emoji_match.group(0)
+
+    return None
+
+
+def guess_emoji_from_name(repo_name, topics=None):
+    """Guess an appropriate emoji based on repo name and topics."""
+    name_lower = repo_name.lower().replace("-", " ").replace("_", " ")
+
+    # Check topics first
+    if topics:
+        for topic in topics:
+            if topic in TOPIC_EMOJI_MAP:
+                return TOPIC_EMOJI_MAP[topic]
+
+    # Check name keywords
+    for keyword, emoji in TOPIC_EMOJI_MAP.items():
+        if keyword in name_lower:
+            return emoji
+
+    return FALLBACK_EMOJI
 
 
 def load_config():
     """Load the featured repos config file."""
     if not os.path.exists(CONFIG_PATH):
         print("⚠️  featured_repos.json not found, using empty config")
-        return {"pinned": [], "auto_add_recent": True, "max_recent": 3, "exclude": []}
+        return {"pinned": [], "auto_add_recent": True, "max_recent": 5, "exclude": []}
 
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
-def build_table_row(name, display_name, description, tech, emoji, url):
+def build_table_row(display_name, description, tech, emoji, url):
     """Build a single markdown table row."""
     tech_str = " ".join(f"`{t}`" for t in tech)
     return (
@@ -115,11 +189,10 @@ def generate_projects_table(config, repos):
         url = f"https://github.com/{GITHUB_USERNAME}/{name}"
         lines.append(
             build_table_row(
-                name=name,
                 display_name=entry.get("display_name", name),
                 description=entry.get("description", ""),
                 tech=entry.get("tech", []),
-                emoji=entry.get("emoji", AUTO_EMOJI),
+                emoji=entry.get("emoji", FALLBACK_EMOJI),
                 url=url,
             )
         )
@@ -127,7 +200,7 @@ def generate_projects_table(config, repos):
     # --- Auto-add recent repos ---
     if config.get("auto_add_recent", True):
         exclude = set(config.get("exclude", []))
-        max_recent = config.get("max_recent", 3)
+        max_recent = config.get("max_recent", 5)
         added = 0
 
         for repo in repos:
@@ -142,22 +215,37 @@ def generate_projects_table(config, repos):
             if repo.get("fork", False) or repo.get("private", False):
                 continue
 
-            # Detect tech from language
-            language = repo.get("language") or "Unknown"
-            tech = LANGUAGE_MAP.get(language, [language])
+            print(f"  🔍 Auto-adding: {name}")
 
-            # Use repo description or generate one
-            description = repo.get("description") or f"Recently updated {language} project"
+            # --- Get real description from GitHub ---
+            description = repo.get("description")
+            if not description:
+                description = f"{name.replace('-', ' ').replace('_', ' ').title()} project"
+
+            # --- Get emoji from README header, fallback to name/topic guess ---
+            emoji = extract_emoji_from_readme(name)
+            if not emoji:
+                topics = repo.get("topics", [])
+                emoji = guess_emoji_from_name(name, topics)
+            print(f"    Emoji: {emoji}")
+
+            # --- Get languages from GitHub API ---
+            languages = fetch_repo_languages(name)
+            if not languages:
+                primary = repo.get("language")
+                languages = [primary] if primary else ["Code"]
+            print(f"    Languages: {languages}")
+
+            # Clean up display name
             display_name = name.replace("-", " ").replace("_", " ").title()
 
             url = repo["html_url"]
             lines.append(
                 build_table_row(
-                    name=name,
                     display_name=display_name,
                     description=description,
-                    tech=tech,
-                    emoji=AUTO_EMOJI,
+                    tech=languages,
+                    emoji=emoji,
                     url=url,
                 )
             )
