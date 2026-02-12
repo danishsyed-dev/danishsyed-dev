@@ -23,30 +23,18 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/danishsyed-dev/Silver-Price-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishsyed-dev&repo=Silver-Price-Prediction&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Silver Price Prediction"/>
-</a>
-<a href="https://github.com/danishsyed-dev/Scrutinizing-ML-Models-for-Cancer-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishsyed-dev&repo=Scrutinizing-ML-Models-for-Cancer-Prediction&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Cancer Prediction"/>
-</a>
-<a href="https://github.com/danishsyed-dev/RAG-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishsyed-dev&repo=RAG-API&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="RAG API"/>
-</a>
-<a href="https://github.com/danishsyed-dev/traffic-signs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishsyed-dev&repo=traffic-signs&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Traffic Signs"/>
-</a>
-<a href="https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishsyed-dev&repo=Identifying_Hot_Topic_Trends&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Hot Topic Trends"/>
-</a>
-<a href="https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danishsyed-dev&repo=SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Smart Highway Lights"/>
-</a>
-
-</div>
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| 🏠 [**Housing Price Prediction System**](https://github.com/danishsyed-dev/Housing-Price-Prediction-System) | End-to-end ML pipeline for real estate price prediction with MLflow tracking | `Python` `scikit-learn` `MLflow` |
+| 💰 [**Silver Price Prediction**](https://github.com/danishsyed-dev/Silver-Price-Prediction) | Production ML system for Indian silver market price forecasting | `Python` `Flask` `TensorFlow` |
+| 🏥 [**Cancer Prediction ML Models**](https://github.com/danishsyed-dev/Scrutinizing-ML-Models-for-Cancer-Prediction) | Comparative analysis of ML models for breast cancer classification | `Python` `scikit-learn` `Pandas` |
+| 🤖 [**RAG API**](https://github.com/danishsyed-dev/RAG-API) | Retrieval-Augmented Generation API for intelligent document Q&A | `Python` `LangChain` `FastAPI` |
+| 🚦 [**Traffic Signs Recognition**](https://github.com/danishsyed-dev/traffic-signs) | Deep Learning CNN achieving **99.33% accuracy** on traffic sign classification | `Python` `TensorFlow` `CNN` |
+| 🔥 [**Hot Topic Trends**](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends) | NLP-powered Django app for identifying trends in streaming text data | `Python` `Django` `NLP` |
+| 💡 [**Smart Highway Lights**](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM) | IoT-based energy-efficient street lighting with Arduino & sensors | `Arduino` `C++` `IoT` |
+| 😂 [**Meme Matcher**](https://github.com/danishsyed-dev/Meme-Matcher) | Real-time facial expression to meme matching using computer vision | `Python` `OpenCV` `Deep Learning` |
 
 ---
 
