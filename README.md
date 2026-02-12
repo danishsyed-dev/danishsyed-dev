@@ -38,7 +38,9 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 | 😂 [**Meme Matcher**](https://github.com/danishsyed-dev/Meme-Matcher) | Real-time facial expression to meme matching using computer vision | `Python` `OpenCV` `Deep Learning` |
 | 📦 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Recently updated Jupyter Notebook project | `Python` `Jupyter` |
 | 📦 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Recently updated Python project | `Python` |
-| 📦 [**Nvidia Dgx Spark Hugging Face Llm Full Fine Tune Tutorial Video**](https://github.com/danishsyed-dev/NVIDIA-DGX-Spark-hugging_face_llm_full_fine_tune_tutorial-VIDEO) | Recently updated Jupyter Notebook project | `Python` `Jupyter` |
+| 📦 [**Pl25 Prediction Ml**](https://github.com/danishsyed-dev/PL25_Prediction_ML) | Recently updated Python project | `Python` |
+| 📦 [**Basic Python Network**](https://github.com/danishsyed-dev/Basic-Python-Network) | Recently updated Python project | `Python` |
+| 📦 [**Youtube Transcript**](https://github.com/danishsyed-dev/Youtube_Transcript) | Recently updated Python project | `Python` |
 <!-- PROJECTS:END -->
 
 ---
