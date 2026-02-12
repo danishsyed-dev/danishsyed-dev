@@ -18,11 +18,12 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 - 🔬 I develop and evaluate ML models for **healthcare prediction**, **NLP**, **sports analytics**, and **trend analysis**
 - 🏗️ I take projects from research concepts to **production-ready systems** — clean backends, data pipelines, and practical ML models
-- 🌱 I believe in **open-source collaboration** and publish my academic projects to make them accessible and reproducible
+- 🌱 Passionate about building **reproducible, well-documented systems** and contributing to the open-source ML ecosystem
 - 🎯 Currently exploring **Deep Learning (CNNs, LSTMs, Transformers)** and **Graduate-level AI research**
 
 ---
 
+<!-- PROJECTS:START -->
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -31,10 +32,14 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 | 💰 [**Silver Price Prediction**](https://github.com/danishsyed-dev/Silver-Price-Prediction) | Production ML system for Indian silver market price forecasting | `Python` `Flask` `TensorFlow` |
 | 🏥 [**Cancer Prediction ML Models**](https://github.com/danishsyed-dev/Scrutinizing-ML-Models-for-Cancer-Prediction) | Comparative analysis of ML models for breast cancer classification | `Python` `scikit-learn` `Pandas` |
 | 🤖 [**RAG API**](https://github.com/danishsyed-dev/RAG-API) | Retrieval-Augmented Generation API for intelligent document Q&A | `Python` `LangChain` `FastAPI` |
-| 🚦 [**Traffic Signs Recognition**](https://github.com/danishsyed-dev/traffic-signs) | Deep Learning CNN achieving **99.33% accuracy** on traffic sign classification | `Python` `TensorFlow` `CNN` |
+| 🚦 [**Traffic Signs Recognition**](https://github.com/danishsyed-dev/traffic-signs) | Deep Learning CNN achieving 99.33% accuracy on traffic sign classification | `Python` `TensorFlow` `CNN` |
 | 🔥 [**Hot Topic Trends**](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends) | NLP-powered Django app for identifying trends in streaming text data | `Python` `Django` `NLP` |
 | 💡 [**Smart Highway Lights**](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM) | IoT-based energy-efficient street lighting with Arduino & sensors | `Arduino` `C++` `IoT` |
 | 😂 [**Meme Matcher**](https://github.com/danishsyed-dev/Meme-Matcher) | Real-time facial expression to meme matching using computer vision | `Python` `OpenCV` `Deep Learning` |
+| 📦 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Recently updated Jupyter Notebook project | `Python` `Jupyter` |
+| 📦 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Recently updated Python project | `Python` |
+| 📦 [**Nvidia Dgx Spark Hugging Face Llm Full Fine Tune Tutorial Video**](https://github.com/danishsyed-dev/NVIDIA-DGX-Spark-hugging_face_llm_full_fine_tune_tutorial-VIDEO) | Recently updated Jupyter Notebook project | `Python` `Jupyter` |
+<!-- PROJECTS:END -->
 
 ---
 
@@ -42,6 +47,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -60,6 +67,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![ZenML](https://img.shields.io/badge/ZenML-0194E2?style=for-the-badge&logo=zenml&logoColor=white)
 
 #### Web Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -82,6 +90,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### Tools & Hardware
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -96,12 +106,16 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danishsyed-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishsyed-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danishsyed-dev&theme=tokyonight" alt="GitHub Stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishsyed-dev&theme=tokyonight" alt="Top Languages" height="180"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=danishsyed-dev&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=danishsyed-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishsyed-dev&theme=tokyonight" alt="Contribution Graph" width="720"/>
 
 </div>
 

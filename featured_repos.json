@@ -1,0 +1,106 @@
+{
+    "pinned": [
+        {
+            "name": "Housing-Price-Prediction-System",
+            "emoji": "🏠",
+            "display_name": "Housing Price Prediction System",
+            "description": "End-to-end ML pipeline for real estate price prediction with MLflow tracking",
+            "tech": [
+                "Python",
+                "scikit-learn",
+                "MLflow"
+            ]
+        },
+        {
+            "name": "Silver-Price-Prediction",
+            "emoji": "💰",
+            "display_name": "Silver Price Prediction",
+            "description": "Production ML system for Indian silver market price forecasting",
+            "tech": [
+                "Python",
+                "Flask",
+                "TensorFlow"
+            ]
+        },
+        {
+            "name": "Scrutinizing-ML-Models-for-Cancer-Prediction",
+            "emoji": "🏥",
+            "display_name": "Cancer Prediction ML Models",
+            "description": "Comparative analysis of ML models for breast cancer classification",
+            "tech": [
+                "Python",
+                "scikit-learn",
+                "Pandas"
+            ]
+        },
+        {
+            "name": "RAG-API",
+            "emoji": "🤖",
+            "display_name": "RAG API",
+            "description": "Retrieval-Augmented Generation API for intelligent document Q&A",
+            "tech": [
+                "Python",
+                "LangChain",
+                "FastAPI"
+            ]
+        },
+        {
+            "name": "traffic-signs",
+            "emoji": "🚦",
+            "display_name": "Traffic Signs Recognition",
+            "description": "Deep Learning CNN achieving 99.33% accuracy on traffic sign classification",
+            "tech": [
+                "Python",
+                "TensorFlow",
+                "CNN"
+            ]
+        },
+        {
+            "name": "Identifying_Hot_Topic_Trends",
+            "emoji": "🔥",
+            "display_name": "Hot Topic Trends",
+            "description": "NLP-powered Django app for identifying trends in streaming text data",
+            "tech": [
+                "Python",
+                "Django",
+                "NLP"
+            ]
+        },
+        {
+            "name": "SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM",
+            "emoji": "💡",
+            "display_name": "Smart Highway Lights",
+            "description": "IoT-based energy-efficient street lighting with Arduino & sensors",
+            "tech": [
+                "Arduino",
+                "C++",
+                "IoT"
+            ]
+        },
+        {
+            "name": "Meme-Matcher",
+            "emoji": "😂",
+            "display_name": "Meme Matcher",
+            "description": "Real-time facial expression to meme matching using computer vision",
+            "tech": [
+                "Python",
+                "OpenCV",
+                "Deep Learning"
+            ]
+        }
+    ],
+    "auto_add_recent": true,
+    "max_recent": 5,
+    "exclude": [
+        "danishsyed-dev",
+        "test",
+        "danishsyed-dev.github.io",
+        "SYED_DANISH_ALI",
+        "Portfolio_Website",
+        "Portfolio_Site",
+        "portfolio",
+        "my-blog",
+        "Harvard-CS50-Course-Selflearning",
+        "NVIDIA-DGX-Spark-hugging_face_llm_full_fine_tune_tutorial-VIDEO"
+    ]
+}
