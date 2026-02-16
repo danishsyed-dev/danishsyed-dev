@@ -36,11 +36,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 | 🔥 [**Hot Topic Trends**](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends) | NLP-powered Django app for identifying trends in streaming text data | `Python` `Django` `NLP` |
 | 💡 [**Smart Highway Lights**](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM) | IoT-based energy-efficient street lighting with Arduino & sensors | `Arduino` `C++` `IoT` |
 | 😂 [**Meme Matcher**](https://github.com/danishsyed-dev/Meme-Matcher) | Real-time facial expression to meme matching using computer vision | `Python` `OpenCV` `Deep Learning` |
+| 🔄 [**Relaycontext**](https://github.com/danishsyed-dev/RelayContext) | Git tracks code. RelayContext tracks thinking. | `TypeScript` |
+| 📖 [**Basic Python Network**](https://github.com/danishsyed-dev/Basic-Python-Network) | Basic Python Network project | `Python` |
 | 📂 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Player Data Stats project | `Jupyter Notebook` |
 | 🛒 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Ml Sales Prediction project | `Python` `Jupyter Notebook` `CSS` |
 | 📈 [**Pl25 Prediction Ml**](https://github.com/danishsyed-dev/PL25_Prediction_ML) | Pl25 Prediction Ml project | `Python` |
-| 📖 [**Basic Python Network**](https://github.com/danishsyed-dev/Basic-Python-Network) | Basic Python Network project | `Python` |
-| 📂 [**Youtube Transcript**](https://github.com/danishsyed-dev/Youtube_Transcript) | Youtube Transcript project | `Python` |
 <!-- PROJECTS:END -->
 
 ---
