@@ -113,7 +113,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danishsyed-dev&theme=tokyonight" alt="GitHub Stats" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishsyed-dev&theme=tokyonight" alt="Top Languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishsyed-dev&theme=tokyonight" alt="Top Languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishsyed-dev&theme=tokyonight" alt="Top Languages by Commits" height="180"/>
 
 <br/>
 
