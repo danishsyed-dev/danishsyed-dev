@@ -39,7 +39,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 | 🔄 [**Relaycontext**](https://github.com/danishsyed-dev/RelayContext) | Git tracks code. RelayContext tracks thinking. | `TypeScript` |
 | 📖 [**Basic Python Network**](https://github.com/danishsyed-dev/Basic-Python-Network) | Basic Python Network project | `Python` |
 | 📂 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Player Data Stats project | `Jupyter Notebook` |
-| 📈 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Ml Sales Prediction project | `Python` `Jupyter Notebook` `CSS` |
+| 🛒 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Ml Sales Prediction project | `Python` `Jupyter Notebook` `CSS` |
 | 📈 [**Pl25 Prediction Ml**](https://github.com/danishsyed-dev/PL25_Prediction_ML) | Pl25 Prediction Ml project | `Python` |
 <!-- PROJECTS:END -->
 
