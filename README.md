@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨🏽‍💻 About Me
 
 I'm a **Computer Science Engineering** graduate specializing in **Artificial Intelligence & Machine Learning**, focused on building real-world, research-oriented AI systems.
 
