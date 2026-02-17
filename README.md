@@ -118,7 +118,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishsyed-dev&theme=tokyonight" alt="Contribution Graph" width="720"/>
 
 </div>
 
