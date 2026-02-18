@@ -40,24 +40,15 @@ Git tracks code. RelayContext tracks thinking.
 </td>
 <td width="50%">
 
-### 📈 [Pl25 Prediction Ml](https://github.com/danishsyed-dev/PL25_Prediction_ML)
+### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
 
-Pl25 Prediction Ml project
+Basic Python Network project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🛒 [Ml Sales Prediction](https://github.com/danishsyed-dev/ml-sales-prediction)
-
-Ml Sales Prediction project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
 <td width="50%">
 
 ### 📂 [Player Data Stats](https://github.com/danishsyed-dev/Player-Data-Stats)
@@ -67,13 +58,22 @@ Player Data Stats project
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
+<td width="50%">
+
+### 🛒 [Ml Sales Prediction](https://github.com/danishsyed-dev/ml-sales-prediction)
+
+Ml Sales Prediction project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
+### 📈 [Pl25 Prediction Ml](https://github.com/danishsyed-dev/PL25_Prediction_ML)
 
-Basic Python Network project
+Pl25 Prediction Ml project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
