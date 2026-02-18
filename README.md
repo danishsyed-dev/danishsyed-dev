@@ -16,10 +16,15 @@
 
 I'm a **Computer Science Engineering** graduate specializing in **Artificial Intelligence & Machine Learning**, focused on building real-world, research-oriented AI systems.
 
-- 🔬 I develop and evaluate ML models for **healthcare prediction**, **NLP**, **sports analytics**, and **trend analysis**
-- 🏗️ I take projects from research concepts to **production-ready systems** - clean backends, data pipelines, and practical ML models
-- 🌱 Passionate about building **reproducible, well-documented systems** and contributing to the open-source ML ecosystem
-- 🎯 Currently exploring **Deep Learning (CNNs, LSTMs, Transformers)** and **Graduate-level AI research**
+#### 🧭 What I Do
+
+🔬 **ML Research & Development** — Building & evaluating models for **healthcare prediction**, **NLP**, **sports analytics** & **trend analysis**
+
+🏗️ **End-to-End Engineering** — Taking projects from research concepts to **production-ready systems** with clean backends, data pipelines & practical ML models
+
+🌱 **Open Source & Documentation** — Passionate about building **reproducible, well-documented systems** and contributing to the ML ecosystem
+
+🎯 **Currently Exploring** — **Deep Learning (CNNs, LSTMs, Transformers)** and **Graduate-level AI research**
 
 ---
 
