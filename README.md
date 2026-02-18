@@ -234,7 +234,7 @@ Real-time facial expression to meme matching using computer vision
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=danishsyed-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=danishsyed-dev&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak"/>
 
 <br/>
 
