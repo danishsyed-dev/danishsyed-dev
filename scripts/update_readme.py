@@ -161,27 +161,82 @@ def load_config():
         return json.load(f)
 
 
-def build_table_row(display_name, description, tech, emoji, url):
-    """Build a single markdown table row."""
-    tech_str = " ".join(f"`{t}`" for t in tech)
+# Shields.io badge config: (background color, logo name)
+TECH_BADGE_MAP = {
+    "Python": ("3670A0", "python", "ffdd54"),
+    "JavaScript": ("323330", "javascript", "F7DF1E"),
+    "TypeScript": ("007ACC", "typescript", "white"),
+    "HTML": ("E34F26", "html5", "white"),
+    "CSS": ("1572B6", "css3", "white"),
+    "C++": ("00599C", "cplusplus", "white"),
+    "C": ("00599C", "c", "white"),
+    "R": ("276DC3", "r", "white"),
+    "Jupyter Notebook": ("F37626", "jupyter", "white"),
+    "TensorFlow": ("FF6F00", "tensorflow", "white"),
+    "PyTorch": ("EE4C2C", "pytorch", "white"),
+    "scikit-learn": ("F7931E", "scikit-learn", "white"),
+    "Pandas": ("150458", "pandas", "white"),
+    "NumPy": ("013243", "numpy", "white"),
+    "Flask": ("000000", "flask", "white"),
+    "Django": ("092E20", "django", "white"),
+    "FastAPI": ("009688", "fastapi", "white"),
+    "React": ("20232a", "react", "61DAFB"),
+    "Node.js": ("339933", "node.js", "white"),
+    "MLflow": ("0194E2", "mlflow", "white"),
+    "LangChain": ("1C3C3C", "langchain", "white"),
+    "OpenCV": ("5C3EE8", "opencv", "white"),
+    "Arduino": ("00979D", "arduino", "white"),
+    "Docker": ("2496ED", "docker", "white"),
+    "AWS": ("FF9900", "amazonaws", "white"),
+    "MongoDB": ("47A248", "mongodb", "white"),
+    "PostgreSQL": ("316192", "postgresql", "white"),
+    "CNN": ("FF6F00", "tensorflow", "white"),
+    "Deep Learning": ("EE4C2C", "pytorch", "white"),
+    "NLP": ("4EA94B", "spacy", "white"),
+    "IoT": ("010101", "internetofthings", "white"),
+    "Git": ("F05033", "git", "white"),
+    "Code": ("555555", "code", "white"),
+}
+
+
+def build_tech_badge(tech_name):
+    """Build a shields.io badge for a technology."""
+    label = tech_name.replace("-", "--").replace(" ", "%20")
+    if tech_name in TECH_BADGE_MAP:
+        bg, logo, logo_color = TECH_BADGE_MAP[tech_name]
+        return (
+            f'![{tech_name}](https://img.shields.io/badge/{label}-{bg}?style=flat-square'
+            f'&logo={logo}&logoColor={logo_color})'
+        )
+    # Fallback: grey badge, no logo
     return (
-        f"| {emoji} [**{display_name}**]({url}) "
-        f"| {description} "
-        f"| {tech_str} |"
+        f'![{tech_name}](https://img.shields.io/badge/{label}-555555?style=flat-square)'
+    )
+
+
+def build_project_card(display_name, description, tech, emoji, url):
+    """Build a card for a single project using markdown inside HTML td."""
+    badges = " ".join(build_tech_badge(t) for t in tech)
+    # Blank lines around content inside <td> are required for GitHub
+    # to parse the inner content as markdown
+    return (
+        f'<td width="50%">\n'
+        f'\n'
+        f'### {emoji} [{display_name}]({url})\n'
+        f'\n'
+        f'{description}\n'
+        f'\n'
+        f'{badges}\n'
+        f'\n'
+        f'</td>'
     )
 
 
 def generate_projects_table(config, repos):
-    """Generate the full projects markdown table."""
-    lines = [
-        "## 🚀 Featured Projects",
-        "",
-        "| Project | Description | Tech |",
-        "|:--------|:------------|:-----|",
-    ]
+    """Generate the full projects section as HTML cards."""
+    all_projects = []
 
     pinned_names = set(entry["name"] for entry in config.get("pinned", []))
-    recent_lines = []
 
     # --- Auto-add recent repos first (latest projects on top) ---
     if config.get("auto_add_recent", True):
@@ -226,8 +281,8 @@ def generate_projects_table(config, repos):
             display_name = name.replace("-", " ").replace("_", " ").title()
 
             url = repo["html_url"]
-            recent_lines.append(
-                build_table_row(
+            all_projects.append(
+                build_project_card(
                     display_name=display_name,
                     description=description,
                     tech=languages,
@@ -237,15 +292,12 @@ def generate_projects_table(config, repos):
             )
             added += 1
 
-    # Add recent repos first (latest on top)
-    lines.extend(recent_lines)
-
     # --- Pinned repos (manual entries, shown after recent) ---
     for entry in config.get("pinned", []):
         name = entry["name"]
         url = f"https://github.com/{GITHUB_USERNAME}/{name}"
-        lines.append(
-            build_table_row(
+        all_projects.append(
+            build_project_card(
                 display_name=entry.get("display_name", name),
                 description=entry.get("description", ""),
                 tech=entry.get("tech", []),
@@ -253,6 +305,26 @@ def generate_projects_table(config, repos):
                 url=url,
             )
         )
+
+    # --- Build 2-column HTML table ---
+    lines = [
+        "## 🚀 Featured Projects",
+        "",
+        '<div align="center">',
+        '<table>',
+    ]
+
+    for i in range(0, len(all_projects), 2):
+        lines.append("<tr>")
+        lines.append(all_projects[i])
+        if i + 1 < len(all_projects):
+            lines.append(all_projects[i + 1])
+        else:
+            lines.append('<td width="50%"></td>')
+        lines.append("</tr>")
+
+    lines.append("</table>")
+    lines.append("</div>")
 
     return "\n".join(lines)
 

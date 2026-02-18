@@ -26,21 +26,142 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <!-- PROJECTS:START -->
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| 🔄 [**Relaycontext**](https://github.com/danishsyed-dev/RelayContext) | Git tracks code. RelayContext tracks thinking. | `TypeScript` |
-| 📖 [**Basic Python Network**](https://github.com/danishsyed-dev/Basic-Python-Network) | Basic Python Network project | `Python` |
-| 📂 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Player Data Stats project | `Jupyter Notebook` |
-| 🛒 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Ml Sales Prediction project | `Python` `Jupyter Notebook` `CSS` |
-| 📈 [**Pl25 Prediction Ml**](https://github.com/danishsyed-dev/PL25_Prediction_ML) | Pl25 Prediction Ml project | `Python` |
-| 🏠 [**Housing Price Prediction System**](https://github.com/danishsyed-dev/Housing-Price-Prediction-System) | End-to-end ML pipeline for real estate price prediction with MLflow tracking | `Python` `scikit-learn` `MLflow` |
-| 💰 [**Silver Price Prediction**](https://github.com/danishsyed-dev/Silver-Price-Prediction) | Production ML system for Indian silver market price forecasting | `Python` `Flask` `TensorFlow` |
-| 🏥 [**Cancer Prediction ML Models**](https://github.com/danishsyed-dev/Scrutinizing-ML-Models-for-Cancer-Prediction) | Comparative analysis of ML models for breast cancer classification | `Python` `scikit-learn` `Pandas` |
-| 🤖 [**RAG API**](https://github.com/danishsyed-dev/RAG-API) | Retrieval-Augmented Generation API for intelligent document Q&A | `Python` `LangChain` `FastAPI` |
-| 🚦 [**Traffic Signs Recognition**](https://github.com/danishsyed-dev/traffic-signs) | Deep Learning CNN achieving 99.33% accuracy on traffic sign classification | `Python` `TensorFlow` `CNN` |
-| 🔥 [**Hot Topic Trends**](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends) | NLP-powered Django app for identifying trends in streaming text data | `Python` `Django` `NLP` |
-| 💡 [**Smart Highway Lights**](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM) | IoT-based energy-efficient street lighting with Arduino & sensors | `Arduino` `C++` `IoT` |
-| 😂 [**Meme Matcher**](https://github.com/danishsyed-dev/Meme-Matcher) | Real-time facial expression to meme matching using computer vision | `Python` `OpenCV` `Deep Learning` |
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🔄 [Relaycontext](https://github.com/danishsyed-dev/RelayContext)
+
+Git tracks code. RelayContext tracks thinking.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📈 [Pl25 Prediction Ml](https://github.com/danishsyed-dev/PL25_Prediction_ML)
+
+Pl25 Prediction Ml project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 [Ml Sales Prediction](https://github.com/danishsyed-dev/ml-sales-prediction)
+
+Ml Sales Prediction project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📂 [Player Data Stats](https://github.com/danishsyed-dev/Player-Data-Stats)
+
+Player Data Stats project
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
+
+Basic Python Network project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+</td>
+<td width="50%">
+
+### 🏠 [Housing Price Prediction System](https://github.com/danishsyed-dev/Housing-Price-Prediction-System)
+
+End-to-end ML pipeline for real estate price prediction with MLflow tracking
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [Silver Price Prediction](https://github.com/danishsyed-dev/Silver-Price-Prediction)
+
+Production ML system for Indian silver market price forecasting
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🏥 [Cancer Prediction ML Models](https://github.com/danishsyed-dev/Scrutinizing-ML-Models-for-Cancer-Prediction)
+
+Comparative analysis of ML models for breast cancer classification
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [RAG API](https://github.com/danishsyed-dev/RAG-API)
+
+Retrieval-Augmented Generation API for intelligent document Q&A
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🚦 [Traffic Signs Recognition](https://github.com/danishsyed-dev/traffic-signs)
+
+Deep Learning CNN achieving 99.33% accuracy on traffic sign classification
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔥 [Hot Topic Trends](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends)
+
+NLP-powered Django app for identifying trends in streaming text data
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4EA94B?style=flat-square&logo=spacy&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 💡 [Smart Highway Lights](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM)
+
+IoT-based energy-efficient street lighting with Arduino & sensors
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-010101?style=flat-square&logo=internetofthings&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 😂 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
+
+Real-time facial expression to meme matching using computer vision
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+</div>
 <!-- PROJECTS:END -->
 
 ---
