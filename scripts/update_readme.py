@@ -180,24 +180,10 @@ def generate_projects_table(config, repos):
         "|:--------|:------------|:-----|",
     ]
 
-    pinned_names = set()
+    pinned_names = set(entry["name"] for entry in config.get("pinned", []))
+    recent_lines = []
 
-    # --- Pinned repos (manual entries, always shown first) ---
-    for entry in config.get("pinned", []):
-        name = entry["name"]
-        pinned_names.add(name)
-        url = f"https://github.com/{GITHUB_USERNAME}/{name}"
-        lines.append(
-            build_table_row(
-                display_name=entry.get("display_name", name),
-                description=entry.get("description", ""),
-                tech=entry.get("tech", []),
-                emoji=entry.get("emoji", FALLBACK_EMOJI),
-                url=url,
-            )
-        )
-
-    # --- Auto-add recent repos ---
+    # --- Auto-add recent repos first (latest projects on top) ---
     if config.get("auto_add_recent", True):
         exclude = set(config.get("exclude", []))
         max_recent = config.get("max_recent", 5)
@@ -240,7 +226,7 @@ def generate_projects_table(config, repos):
             display_name = name.replace("-", " ").replace("_", " ").title()
 
             url = repo["html_url"]
-            lines.append(
+            recent_lines.append(
                 build_table_row(
                     display_name=display_name,
                     description=description,
@@ -249,8 +235,24 @@ def generate_projects_table(config, repos):
                     url=url,
                 )
             )
-            pinned_names.add(name)
             added += 1
+
+    # Add recent repos first (latest on top)
+    lines.extend(recent_lines)
+
+    # --- Pinned repos (manual entries, shown after recent) ---
+    for entry in config.get("pinned", []):
+        name = entry["name"]
+        url = f"https://github.com/{GITHUB_USERNAME}/{name}"
+        lines.append(
+            build_table_row(
+                display_name=entry.get("display_name", name),
+                description=entry.get("description", ""),
+                tech=entry.get("tech", []),
+                emoji=entry.get("emoji", FALLBACK_EMOJI),
+                url=url,
+            )
+        )
 
     return "\n".join(lines)
 

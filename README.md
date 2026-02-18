@@ -28,6 +28,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
+| 🔄 [**Relaycontext**](https://github.com/danishsyed-dev/RelayContext) | Git tracks code. RelayContext tracks thinking. | `TypeScript` |
+| 📖 [**Basic Python Network**](https://github.com/danishsyed-dev/Basic-Python-Network) | Basic Python Network project | `Python` |
+| 📂 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Player Data Stats project | `Jupyter Notebook` |
+| 🛒 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Ml Sales Prediction project | `Python` `Jupyter Notebook` `CSS` |
+| 📈 [**Pl25 Prediction Ml**](https://github.com/danishsyed-dev/PL25_Prediction_ML) | Pl25 Prediction Ml project | `Python` |
 | 🏠 [**Housing Price Prediction System**](https://github.com/danishsyed-dev/Housing-Price-Prediction-System) | End-to-end ML pipeline for real estate price prediction with MLflow tracking | `Python` `scikit-learn` `MLflow` |
 | 💰 [**Silver Price Prediction**](https://github.com/danishsyed-dev/Silver-Price-Prediction) | Production ML system for Indian silver market price forecasting | `Python` `Flask` `TensorFlow` |
 | 🏥 [**Cancer Prediction ML Models**](https://github.com/danishsyed-dev/Scrutinizing-ML-Models-for-Cancer-Prediction) | Comparative analysis of ML models for breast cancer classification | `Python` `scikit-learn` `Pandas` |
@@ -36,11 +41,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 | 🔥 [**Hot Topic Trends**](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends) | NLP-powered Django app for identifying trends in streaming text data | `Python` `Django` `NLP` |
 | 💡 [**Smart Highway Lights**](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM) | IoT-based energy-efficient street lighting with Arduino & sensors | `Arduino` `C++` `IoT` |
 | 😂 [**Meme Matcher**](https://github.com/danishsyed-dev/Meme-Matcher) | Real-time facial expression to meme matching using computer vision | `Python` `OpenCV` `Deep Learning` |
-| 🔄 [**Relaycontext**](https://github.com/danishsyed-dev/RelayContext) | Git tracks code. RelayContext tracks thinking. | `TypeScript` |
-| 📖 [**Basic Python Network**](https://github.com/danishsyed-dev/Basic-Python-Network) | Basic Python Network project | `Python` |
-| 📂 [**Player Data Stats**](https://github.com/danishsyed-dev/Player-Data-Stats) | Player Data Stats project | `Jupyter Notebook` |
-| 🛒 [**Ml Sales Prediction**](https://github.com/danishsyed-dev/ml-sales-prediction) | Ml Sales Prediction project | `Python` `Jupyter Notebook` `CSS` |
-| 📈 [**Pl25 Prediction Ml**](https://github.com/danishsyed-dev/PL25_Prediction_ML) | Pl25 Prediction Ml project | `Python` |
 <!-- PROJECTS:END -->
 
 ---
