@@ -36,6 +36,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 🌟 [Incomeiq](https://github.com/danishsyed-dev/InComeIQ)
+
+ML-Powered Income Classifier
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Dockerfile](https://img.shields.io/badge/Dockerfile-555555?style=flat-square)
+
+</td>
+<td width="50%">
+
 ### 🔄 [Relaycontext](https://github.com/danishsyed-dev/RelayContext)
 
 Git tracks code. RelayContext tracks thinking.
@@ -43,6 +52,8 @@ Git tracks code. RelayContext tracks thinking.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
@@ -52,8 +63,6 @@ Basic Python Network project
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📂 [Player Data Stats](https://github.com/danishsyed-dev/Player-Data-Stats)
@@ -63,6 +72,8 @@ Player Data Stats project
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🛒 [Ml Sales Prediction](https://github.com/danishsyed-dev/ml-sales-prediction)
@@ -70,17 +81,6 @@ Player Data Stats project
 Ml Sales Prediction project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 [Pl25 Prediction Ml](https://github.com/danishsyed-dev/PL25_Prediction_ML)
-
-Pl25 Prediction Ml project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 </td>
 <td width="50%">
