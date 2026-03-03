@@ -36,9 +36,9 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 📂 [Youtube Transcript](https://github.com/danishsyed-dev/Youtube_Transcript)
+### 📂 [Pdf To Jpg](https://github.com/danishsyed-dev/Pdf-To-Jpg)
 
-Youtube Transcript project
+A simple Python script to convert all PDF files in a directory to JPG images.  For each PDF file, it creates a new folder containing the JPG images of each page.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
@@ -56,6 +56,15 @@ ML-Powered Income Classifier
 <tr>
 <td width="50%">
 
+### 📂 [Youtube Transcript](https://github.com/danishsyed-dev/Youtube_Transcript)
+
+Youtube Transcript project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+</td>
+<td width="50%">
+
 ### 🔄 [Relaycontext](https://github.com/danishsyed-dev/RelayContext)
 
 Git tracks code. RelayContext tracks thinking.
@@ -63,6 +72,8 @@ Git tracks code. RelayContext tracks thinking.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
@@ -70,17 +81,6 @@ Git tracks code. RelayContext tracks thinking.
 Basic Python Network project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📂 [Player Data Stats](https://github.com/danishsyed-dev/Player-Data-Stats)
-
-Player Data Stats project
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
 <td width="50%">
