@@ -36,13 +36,24 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### ֎ [Microgpt](https://github.com/danishsyed-dev/MicroGPT)
+### 📂 [Microgpt](https://github.com/danishsyed-dev/MicroGPT)
 
 A step-by-step educational rewrite of MicroGPT where every formula and complex operation is expanded into simple Python logic so that beginners can understand how GPT works from first principles.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
+<td width="50%">
+
+### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
+
+Real-time Facial Expression to Meme Matching
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📂 [Pdf To Jpg](https://github.com/danishsyed-dev/Pdf-To-Jpg)
@@ -52,115 +63,24 @@ A simple Python script to convert all PDF files in a directory to JPG images.  F
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### 💲 [Incomeiq](https://github.com/danishsyed-dev/InComeIQ)
+### 🌟 [Incomeiq](https://github.com/danishsyed-dev/InComeIQ)
 
 ML-Powered Income Classifier
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### ▶️ [Youtube Transcript](https://github.com/danishsyed-dev/Youtube_Transcript)
+### 📂 [Youtube Transcript](https://github.com/danishsyed-dev/Youtube_Transcript)
 
 Youtube Transcript project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔄 [Relaycontext](https://github.com/danishsyed-dev/RelayContext)
-
-Git tracks code. RelayContext tracks thinking.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🏠 [Housing Price Prediction System](https://github.com/danishsyed-dev/Housing-Price-Prediction-System)
-
-End-to-end ML pipeline for real estate price prediction with MLflow tracking
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 [Silver Price Prediction](https://github.com/danishsyed-dev/Silver-Price-Prediction)
-
-Production ML system for Indian silver market price forecasting
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🏥 [Cancer Prediction ML Models](https://github.com/danishsyed-dev/Scrutinizing-ML-Models-for-Cancer-Prediction)
-
-Comparative analysis of ML models for breast cancer classification
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [RAG API](https://github.com/danishsyed-dev/RAG-API)
-
-Retrieval-Augmented Generation API for intelligent document Q&A
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🚦 [Traffic Signs Recognition](https://github.com/danishsyed-dev/traffic-signs)
-
-Deep Learning CNN achieving 99.33% accuracy on traffic sign classification
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔥 [Hot Topic Trends](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends)
-
-NLP-powered Django app for identifying trends in streaming text data
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4EA94B?style=flat&logo=spacy&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 💡 [Smart Highway Lights](https://github.com/danishsyed-dev/SMART-HIGHWAY-LIGHTS-WITH-AUTO-CONTROL-SYSTEM)
-
-IoT-based energy-efficient street lighting with Arduino & sensors
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-010101?style=flat&logo=internetofthings&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 😂 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
-
-Real-time facial expression to meme matching using computer vision
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 </td>
 <td width="50%"></td>
