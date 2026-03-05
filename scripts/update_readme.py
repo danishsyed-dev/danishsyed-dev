@@ -205,12 +205,12 @@ def build_tech_badge(tech_name):
     if tech_name in TECH_BADGE_MAP:
         bg, logo, logo_color = TECH_BADGE_MAP[tech_name]
         return (
-            f'![{tech_name}](https://img.shields.io/badge/{label}-{bg}?style=flat-square'
+            f'![{tech_name}](https://img.shields.io/badge/{label}-{bg}?style=flat'
             f'&logo={logo}&logoColor={logo_color})'
         )
     # Fallback: grey badge, no logo
     return (
-        f'![{tech_name}](https://img.shields.io/badge/{label}-555555?style=flat-square)'
+        f'![{tech_name}](https://img.shields.io/badge/{label}-555555?style=flat)'
     )
 
 
