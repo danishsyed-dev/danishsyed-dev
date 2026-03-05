@@ -36,6 +36,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 📂 [Microgpt](https://github.com/danishsyed-dev/MicroGPT)
+
+A step-by-step educational rewrite of MicroGPT where every formula and complex operation is expanded into simple Python logic so that beginners can understand how GPT works from first principles.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+</td>
+<td width="50%">
+
 ### 📂 [Pdf To Jpg](https://github.com/danishsyed-dev/Pdf-To-Jpg)
 
 A simple Python script to convert all PDF files in a directory to JPG images.  For each PDF file, it creates a new folder containing the JPG images of each page.
@@ -43,6 +52,8 @@ A simple Python script to convert all PDF files in a directory to JPG images.  F
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌟 [Incomeiq](https://github.com/danishsyed-dev/InComeIQ)
@@ -52,8 +63,6 @@ ML-Powered Income Classifier
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📂 [Youtube Transcript](https://github.com/danishsyed-dev/Youtube_Transcript)
@@ -63,6 +72,8 @@ Youtube Transcript project
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔄 [Relaycontext](https://github.com/danishsyed-dev/RelayContext)
@@ -70,17 +81,6 @@ Youtube Transcript project
 Git tracks code. RelayContext tracks thinking.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
-
-Basic Python Network project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 </td>
 <td width="50%">
