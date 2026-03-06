@@ -308,7 +308,7 @@ def generate_projects_table(config, repos):
 
     # --- Build 2-column HTML table ---
     lines = [
-        "## 🚀 Featured Projects",
+        "## 🔨 What I've Built",
         "",
         '<div align="center">',
         '<table>',

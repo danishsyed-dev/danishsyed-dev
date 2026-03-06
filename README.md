@@ -19,13 +19,18 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 #### 🧭 What I Do
 
-> 🔬 ML Research · 🏗️ End-to-End Engineering · 🌱 Open Source · 🎯 Deep Learning
+> 🔬 ML Research | 🏗️ End-to-End Engineering | 🌱 Open Source | 🎯 Deep Learning
 
+<br/>
 
 ---
 
 <!-- PROJECTS:START -->
+<<<<<<< Updated upstream
 ## 🚀 Featured Projects
+=======
+## 🔨 Recent Projects
+>>>>>>> Stashed changes
 
 <div align="center">
 <table>
@@ -79,7 +84,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-<td width="50%"></td>
+<td width="50%" align="center">
+
+<a href="https://github.com/danishsyed-dev?tab=repositories"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> View All Projects →</code></a>
+
+</td>
 </tr>
 </table>
 </div>
