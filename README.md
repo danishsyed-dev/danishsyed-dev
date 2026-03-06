@@ -3,11 +3,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Syed%20Danish%20Ali&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Engineer%20|%20Full-Stack%20Developer&descSize=18&descAlignY=65)
 
 
-<p>
-  <a href="https://danishsyed-dev.github.io/SYED_DANISH_ALI/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/syed-danish-ali-70b36334a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:knightdanish@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<table>
+<tr>
+<td align="center">
+<a href="https://danishsyed-dev.github.io/SYED_DANISH_ALI/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"><br/><b>Portfolio</b></a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/syed-danish-ali-70b36334a/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"><br/><b>LinkedIn</b></a>
+</td>
+<td align="center">
+<a href="mailto:knightdanish@outlook.com"><img height="30" src="https://cdn.simpleicons.org/gmail/EA4335"><br/><b>Email</b></a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -26,7 +34,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ---
 
 <!-- PROJECTS:START -->
-## 🔨 What I've Built
+## 🔨 Recent Projects
 
 <div align="center">
 <table>
@@ -80,7 +88,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-<td width="50%"></td>
+<td width="50%" align="center" valign="middle">
+
+<a href="https://github.com/danishsyed-dev?tab=repositories"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><br/><b>View All Projects →</b></a>
+
+</td>
 </tr>
 </table>
 </div>
@@ -172,9 +184,19 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 <div align="center">
 
-<a href="https://danishsyed-dev.github.io/SYED_DANISH_ALI/"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"> Portfolio</code></a>
-<a href="https://www.linkedin.com/in/syed-danish-ali-70b36334a/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</code></a>
-<a href="mailto:knightdanish@outlook.com"><code><img height="20" src="https://cdn.simpleicons.org/gmail/EA4335"> Email</code></a>
+<table>
+<tr>
+<td align="center">
+<a href="https://danishsyed-dev.github.io/SYED_DANISH_ALI/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"><br/><b>Portfolio</b></a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/syed-danish-ali-70b36334a/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"><br/><b>LinkedIn</b></a>
+</td>
+<td align="center">
+<a href="mailto:knightdanish@outlook.com"><img height="30" src="https://cdn.simpleicons.org/gmail/EA4335"><br/><b>Email</b></a>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=150&section=footer&text=Let's%20Connect%20🤝&fontSize=24&fontColor=ffffff&desc=Open%20to%20collaborating%20on%20AI/ML%20projects&descSize=14&descAlignY=85&fontAlignY=70" width="100%"/>
 
