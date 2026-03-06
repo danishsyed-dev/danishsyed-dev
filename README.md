@@ -26,11 +26,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ---
 
 <!-- PROJECTS:START -->
-<<<<<<< Updated upstream
-## 🚀 Featured Projects
-=======
-## 🔨 Recent Projects
->>>>>>> Stashed changes
+## 🔨 What I've Built
 
 <div align="center">
 <table>
@@ -84,11 +80,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-<td width="50%" align="center">
-
-<a href="https://github.com/danishsyed-dev?tab=repositories"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> View All Projects →</code></a>
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 </div>
