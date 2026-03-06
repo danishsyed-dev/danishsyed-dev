@@ -224,7 +224,7 @@ def build_project_card(display_name, description, tech, emoji, url):
         f'\n'
         f'### {emoji} [{display_name}]({url})\n'
         f'\n'
-        f'{description}\n'
+        f'>{description}\n'
         f'\n'
         f'{badges}\n'
         f'\n'
