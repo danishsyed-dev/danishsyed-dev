@@ -25,7 +25,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ---
 
 <!-- PROJECTS:START -->
-## 🔨 What I've Built
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -36,7 +36,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 >A step-by-step educational rewrite of MicroGPT where every formula and complex operation is expanded into simple Python logic so that beginners can understand how GPT works from first principles.
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python</code>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
 <td width="50%">
@@ -45,7 +45,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 >Real-time Facial Expression to Meme Matching
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python</code>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 >A simple Python script to convert all PDF files in a directory to JPG images.  For each PDF file, it creates a new folder containing the JPG images of each page.
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python</code>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
 <td width="50%">
@@ -65,7 +65,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 >ML-Powered Income Classifier
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python</code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML</code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS</code>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 >Youtube Transcript project
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python</code>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
 <td width="50%"></td>
