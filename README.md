@@ -175,11 +175,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <div align="center">
 
 <p>
-<a href="https://danishsyed-dev.github.io/SYED_DANISH_ALI/"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"> <b>Portfolio</b></a>
+<a href="https://danishsyed-dev.github.io/SYED_DANISH_ALI/"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"> <b>Portfolio</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/syed-danish-ali-70b36334a/"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> <b>LinkedIn</b></a>
+<a href="https://www.linkedin.com/in/syed-danish-ali-70b36334a/"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> <b>LinkedIn</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:knightdanish@outlook.com"><img height="20" src="https://cdn.simpleicons.org/gmail/EA4335"> <b>Email</b></a>
+<a href="mailto:knightdanish@outlook.com"><img height="25" src="https://cdn.simpleicons.org/gmail/EA4335"> <b>Email</b></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=150&section=footer&text=Let's%20Connect%20🤝&fontSize=24&fontColor=ffffff&desc=Open%20to%20collaborating%20on%20AI/ML%20projects&descSize=14&descAlignY=85&fontAlignY=70" width="100%"/>
