@@ -320,7 +320,13 @@ def generate_projects_table(config, repos):
         if i + 1 < len(all_projects):
             lines.append(all_projects[i + 1])
         else:
-            lines.append('<td width="50%"></td>')
+            lines.extend([
+                '<td width="50%" align="center" valign="middle">',
+                '',
+                '<a href="https://github.com/danishsyed-dev?tab=repositories"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><br/><b>View All Projects →</b></a>',
+                '',
+                '</td>'
+            ])
         lines.append("</tr>")
 
     lines.append("</table>")

@@ -82,7 +82,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-<td width="50%"></td>
+<td width="50%" align="center" valign="middle">
+
+<a href="https://github.com/danishsyed-dev?tab=repositories"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><br/><b>View All Projects →</b></a>
+
+</td>
 </tr>
 </table>
 </div>
