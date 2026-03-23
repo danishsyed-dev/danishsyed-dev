@@ -35,6 +35,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
+
+>Football Python Course project
+
+![Code](https://img.shields.io/badge/Code-555555?style=flat&logo=code&logoColor=white)
+
+</td>
+<td width="50%">
+
 ### 📂 [Microgpt](https://github.com/danishsyed-dev/MicroGPT)
 
 >A step-by-step educational rewrite of MicroGPT where every formula and complex operation is expanded into simple Python logic so that beginners can understand how GPT works from first principles.
@@ -42,6 +51,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
@@ -51,8 +62,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📂 [Pdf To Jpg](https://github.com/danishsyed-dev/Pdf-To-Jpg)
@@ -62,6 +71,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌟 [Incomeiq](https://github.com/danishsyed-dev/InComeIQ)
@@ -69,17 +80,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >ML-Powered Income Classifier
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📂 [Youtube Transcript](https://github.com/danishsyed-dev/Youtube_Transcript)
-
->Youtube Transcript project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
 <td width="50%" align="center" valign="middle">
