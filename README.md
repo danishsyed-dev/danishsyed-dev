@@ -39,7 +39,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 >Football Python Course project
 
-![Code](https://img.shields.io/badge/Code-555555?style=flat&logo=code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
 <td width="50%">
@@ -55,7 +55,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
+### 📂 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
 
 >Real-time Facial Expression to Meme Matching
 
