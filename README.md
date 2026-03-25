@@ -55,7 +55,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 📂 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
+### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
 
 >Real-time Facial Expression to Meme Matching
 
