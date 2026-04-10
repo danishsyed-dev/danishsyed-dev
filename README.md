@@ -35,6 +35,26 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 🛒 [Building Basic Ml Model](https://github.com/danishsyed-dev/Building-Basic-ML-Model)
+
+>Step-by-Step building an ML Prediction Model using E-Commerce Dataset
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
+
+>Basic Python Network project
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
 
 >Football Python Course project
@@ -58,26 +78,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ### 📂 [Microgpt](https://github.com/danishsyed-dev/MicroGPT)
 
 >A step-by-step educational rewrite of MicroGPT where every formula and complex operation is expanded into simple Python logic so that beginners can understand how GPT works from first principles.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-</td>
-<td width="50%">
-
-### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
-
->Real-time Facial Expression to Meme Matching
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📂 [Pdf To Jpg](https://github.com/danishsyed-dev/Pdf-To-Jpg)
-
->A simple Python script to convert all PDF files in a directory to JPG images.  For each PDF file, it creates a new folder containing the JPG images of each page.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
