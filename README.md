@@ -35,18 +35,18 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
+### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
 
->Football Python Course project
+>Basic Python Network project
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
 <td width="50%">
 
-### 🛒 [Building Basic Ml Model](https://github.com/danishsyed-dev/Building-Basic-ML-Model)
+### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
 
->Step-by-Step building an ML Prediction Model using E-Commerce Dataset
+>Football Python Course project
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
@@ -55,11 +55,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
+### 🛒 [Building Basic Ml Model](https://github.com/danishsyed-dev/Building-Basic-ML-Model)
 
->Basic Python Network project
+>Step-by-Step building an ML Prediction Model using E-Commerce Dataset
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
 <td width="50%">
