@@ -35,20 +35,20 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 🏏 [Ipl In Match Forecasting Tool Main](https://github.com/danishsyed-dev/IPL-In-Match-Forecasting-Tool-main)
-
->Ipl In Match Forecasting Tool Main project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-</td>
-<td width="50%">
-
 ### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
 
 >Football Python Course project
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🏏 [Ipl In Match Forecasting Tool Main](https://github.com/danishsyed-dev/IPL-In-Match-Forecasting-Tool-main)
+
+>Ipl In Match Forecasting Tool Main project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
 </tr>
