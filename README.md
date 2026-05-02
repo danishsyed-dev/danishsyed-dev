@@ -35,20 +35,20 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### ⚽ [La Liga Forwards Analysis](https://github.com/danishsyed-dev/la-liga-forwards-analysis)
-
->La Liga Forwards Analysis project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-555555?style=flat) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
-
-</td>
-<td width="50%">
-
 ### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
 
 >Football Python Course project
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+</td>
+<td width="50%">
+
+### ⚽ [La Liga Forwards Analysis](https://github.com/danishsyed-dev/la-liga-forwards-analysis)
+
+>La Liga Forwards Analysis project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-555555?style=flat) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
 
 </td>
 </tr>
