@@ -35,6 +35,26 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 📂 [Dataflux](https://github.com/danishsyed-dev/DataFlux)
+
+>Interactive dashboard to uncover data insights
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📂 [Tiebreaker](https://github.com/danishsyed-dev/Tiebreaker)
+
+>The Tiebreaker that helps me make decisions.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
 
 >Football Python Course project
@@ -60,26 +80,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >Ipl In Match Forecasting Tool Main project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-</td>
-<td width="50%">
-
-### 📖 [Basic Python Network](https://github.com/danishsyed-dev/Basic-Python-Network)
-
->Basic Python Network project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 [Building Basic Ml Model](https://github.com/danishsyed-dev/Building-Basic-ML-Model)
-
->Step-by-Step building an ML Prediction Model using E-Commerce Dataset
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
 <td width="50%" align="center" valign="middle">
