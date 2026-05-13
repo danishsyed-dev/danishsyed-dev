@@ -35,18 +35,18 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 📂 [Dataflux](https://github.com/danishsyed-dev/DataFlux)
+### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
 
->Interactive dashboard to uncover data insights
+>Football Python Course project
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 📂 [Tiebreaker](https://github.com/danishsyed-dev/Tiebreaker)
+### 📂 [Dataflux](https://github.com/danishsyed-dev/DataFlux)
 
->The Tiebreaker that helps me make decisions.
+>Interactive dashboard to uncover data insights
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
@@ -55,11 +55,11 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 📂 [Football Python Course](https://github.com/danishsyed-dev/Football_Python_Course)
+### 📂 [Tiebreaker](https://github.com/danishsyed-dev/Tiebreaker)
 
->Football Python Course project
+>The Tiebreaker that helps me make decisions.
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 </td>
 <td width="50%">
