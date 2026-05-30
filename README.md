@@ -35,6 +35,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 📋 [Identifying Hot Topic Trends](https://github.com/danishsyed-dev/Identifying_Hot_Topic_Trends)
+
+>Django ML project for identifying hot topic trends in streaming text data
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
+
+</td>
+<td width="50%">
+
 ### ⚡ [Dataflux](https://github.com/danishsyed-dev/DataFlux)
 
 >Interactive dashboard to uncover data insights
@@ -42,6 +51,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
@@ -51,8 +62,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🌟 [Incomeiq](https://github.com/danishsyed-dev/InComeIQ)
@@ -62,6 +71,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ⚽ [La Liga Forwards Analysis](https://github.com/danishsyed-dev/la-liga-forwards-analysis)
@@ -69,17 +80,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >La Liga Forwards Analysis project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-555555?style=flat) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔄 [Relaycontext](https://github.com/danishsyed-dev/RelayContext)
-
->Git tracks code. RelayContext tracks thinking.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%" align="center" valign="middle">
