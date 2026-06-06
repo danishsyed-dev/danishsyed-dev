@@ -35,7 +35,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 🏆 [Fifa World Cup Match Outcome Predictor](https://github.com/danishsyed-dev/FIFA-World-Cup-Match-Outcome-Predictor)
+### 🧭 [Fifa World Cup Match Outcome Predictor](https://github.com/danishsyed-dev/FIFA-World-Cup-Match-Outcome-Predictor)
 
 >Fifa World Cup Match Outcome Predictor project
 
