@@ -35,20 +35,20 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### ⚽ [Fifa World Cup Tactical Intelligence Platform](https://github.com/danishsyed-dev/FIFA-World-Cup-Tactical-Intelligence-Platform)
+
+>Fifa World Cup Tactical Intelligence Platform project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+</td>
+<td width="50%">
+
 ### 🧭 [Fifa World Cup Match Outcome Predictor](https://github.com/danishsyed-dev/FIFA-World-Cup-Match-Outcome-Predictor)
 
 >Fifa World Cup Match Outcome Predictor project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-
-</td>
-<td width="50%">
-
-### ⚽ [Fifa World Cup Tactical Formation Classifier](https://github.com/danishsyed-dev/FIFA-World-Cup-Tactical-Formation-Classifier)
-
->Fifa World Cup Tactical Formation Classifier project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
 </tr>
