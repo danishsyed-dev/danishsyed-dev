@@ -35,6 +35,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 🔄 [Relaycontext](https://github.com/danishsyed-dev/RelayContext)
+
+>Git tracks code. RelayContext tracks thinking.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%">
+
 ### ⚽ [La Liga Forwards Analysis](https://github.com/danishsyed-dev/la-liga-forwards-analysis)
 
 >La Liga Forwards Analysis project
@@ -42,6 +51,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-555555?style=flat) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
@@ -51,8 +62,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📂 [Administering Information Retrieval Ranking With Ml Strategies And Insights](https://github.com/danishsyed-dev/Administering-Information-Retrieval-Ranking-with-ML-Strategies-and-Insights)
@@ -62,6 +71,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🧭 [Fifa World Cup Match Outcome Predictor](https://github.com/danishsyed-dev/FIFA-World-Cup-Match-Outcome-Predictor)
@@ -69,17 +80,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >Fifa World Cup Match Outcome Predictor project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 [Ml Sales Prediction](https://github.com/danishsyed-dev/ml-sales-prediction)
-
->Ml Sales Prediction project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
 <td width="50%" align="center" valign="middle">
