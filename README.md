@@ -35,20 +35,20 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 📊 [Player Similarity Engine World Cup Analytics](https://github.com/danishsyed-dev/Player-Similarity-Engine-World-Cup-Analytics)
-
->An interactive digital analytics portfolio piece that maps, visualizes, and explores the statistical profiles of World Cup players (2014, 2018, and 2022). It employs Principal Component Analysis (PCA) for dimensionality reduction and Cosine Similarity to match players with their closest historical "statistical twins."
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-</td>
-<td width="50%">
-
 ### 🧭 [Fifa World Cup Match Outcome Predictor](https://github.com/danishsyed-dev/FIFA-World-Cup-Match-Outcome-Predictor)
 
 >Fifa World Cup Match Outcome Predictor project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📊 [Player Similarity Engine World Cup Analytics](https://github.com/danishsyed-dev/Player-Similarity-Engine-World-Cup-Analytics)
+
+>An interactive digital analytics portfolio piece that maps, visualizes, and explores the statistical profiles of World Cup players (2014, 2018, and 2022). It employs Principal Component Analysis (PCA) for dimensionality reduction and Cosine Similarity to match players with their closest historical "statistical twins."
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
 </tr>
