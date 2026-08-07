@@ -35,6 +35,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
+
+>Real-time Facial Expression to Meme Matching
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+</td>
+<td width="50%">
+
 ### 📂 [Administering Information Retrieval Ranking With Ml Strategies And Insights](https://github.com/danishsyed-dev/Administering-Information-Retrieval-Ranking-with-ML-Strategies-and-Insights)
 
 >Administering Information Retrieval Ranking With Ml Strategies And Insights project
@@ -42,6 +51,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌟 [Incomeiq](https://github.com/danishsyed-dev/InComeIQ)
@@ -49,17 +60,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >ML-Powered Income Classifier
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
-
->Real-time Facial Expression to Meme Matching
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
 <td width="50%">
