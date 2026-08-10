@@ -35,6 +35,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 🔌 [Rag Api](https://github.com/danishsyed-dev/RAG-API)
+
+>Rag Api project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dockerfile](https://img.shields.io/badge/Dockerfile-555555?style=flat)
+
+</td>
+<td width="50%">
+
 ### 🌟 [Player Similarity Engine World Cup Analytics](https://github.com/danishsyed-dev/Player-Similarity-Engine-World-Cup-Analytics)
 
 >An interactive digital analytics portfolio piece that maps, visualizes, and explores the statistical profiles of World Cup players (2014, 2018, and 2022). It employs Principal Component Analysis (PCA) for dimensionality reduction and Cosine Similarity to match players with their closest historical "statistical twins."
@@ -42,6 +51,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
@@ -51,8 +62,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📂 [Administering Information Retrieval Ranking With Ml Strategies And Insights](https://github.com/danishsyed-dev/Administering-Information-Retrieval-Ranking-with-ML-Strategies-and-Insights)
@@ -62,6 +71,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌟 [Incomeiq](https://github.com/danishsyed-dev/InComeIQ)
@@ -69,17 +80,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >ML-Powered Income Classifier
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚽ [La Liga Forwards Analysis](https://github.com/danishsyed-dev/la-liga-forwards-analysis)
-
->La Liga Forwards Analysis project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-555555?style=flat) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
 
 </td>
 <td width="50%" align="center" valign="middle">
