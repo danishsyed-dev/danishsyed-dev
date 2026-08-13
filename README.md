@@ -37,7 +37,7 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 
 ### 🔌 [Rag Api](https://github.com/danishsyed-dev/RAG-API)
 
->Rag Api project
+>A lightweight, privacy-first API to query a knowledge base with natural language using local LLMs and vector search.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dockerfile](https://img.shields.io/badge/Dockerfile-555555?style=flat)
 
