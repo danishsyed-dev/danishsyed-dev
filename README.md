@@ -35,20 +35,20 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 🔌 [Rag Api](https://github.com/danishsyed-dev/RAG-API)
-
->A lightweight, privacy-first API to query a knowledge base with natural language using local LLMs and vector search.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dockerfile](https://img.shields.io/badge/Dockerfile-555555?style=flat)
-
-</td>
-<td width="50%">
-
 ### 🌟 [Player Similarity Engine World Cup Analytics](https://github.com/danishsyed-dev/Player-Similarity-Engine-World-Cup-Analytics)
 
 >An interactive digital analytics portfolio piece that maps, visualizes, and explores the statistical profiles of World Cup players (2014, 2018, and 2022). It employs Principal Component Analysis (PCA) for dimensionality reduction and Cosine Similarity to match players with their closest historical "statistical twins."
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🔌 [Rag Api](https://github.com/danishsyed-dev/RAG-API)
+
+>A lightweight, privacy-first API to query a knowledge base with natural language using local LLMs and vector search.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dockerfile](https://img.shields.io/badge/Dockerfile-555555?style=flat)
 
 </td>
 </tr>
