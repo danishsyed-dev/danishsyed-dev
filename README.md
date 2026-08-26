@@ -35,6 +35,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 🛒 [Building Basic Ml Model](https://github.com/danishsyed-dev/Building-Basic-ML-Model)
+
+>Step-by-Step building an ML Prediction Model using E-Commerce Dataset
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+</td>
+<td width="50%">
+
 ### 🚀 [Youtube Content Scraper](https://github.com/danishsyed-dev/Youtube-Content-Scraper)
 
 >Youtube Content Scraper project
@@ -42,6 +51,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📂 [Youtube Transcript](https://github.com/danishsyed-dev/Youtube_Transcript)
@@ -51,8 +62,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🌟 [Player Similarity Engine World Cup Analytics](https://github.com/danishsyed-dev/Player-Similarity-Engine-World-Cup-Analytics)
@@ -62,6 +71,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔌 [Rag Api](https://github.com/danishsyed-dev/RAG-API)
@@ -69,17 +80,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >A lightweight, privacy-first API to query a knowledge base with natural language using local LLMs and vector search.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dockerfile](https://img.shields.io/badge/Dockerfile-555555?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎭 [Meme Matcher](https://github.com/danishsyed-dev/Meme-Matcher)
-
->Real-time Facial Expression to Meme Matching
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
 <td width="50%" align="center" valign="middle">
