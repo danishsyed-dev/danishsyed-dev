@@ -35,20 +35,20 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
-### 🛒 [Building Basic Ml Model](https://github.com/danishsyed-dev/Building-Basic-ML-Model)
-
->Step-by-Step building an ML Prediction Model using E-Commerce Dataset
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-
-</td>
-<td width="50%">
-
 ### 🚀 [Youtube Content Scraper](https://github.com/danishsyed-dev/Youtube-Content-Scraper)
 
 >Youtube Content Scraper project
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🛒 [Building Basic Ml Model](https://github.com/danishsyed-dev/Building-Basic-ML-Model)
+
+>Step-by-Step building an ML Prediction Model using E-Commerce Dataset
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
