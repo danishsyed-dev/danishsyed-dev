@@ -35,6 +35,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### ⚽ [La Liga Forwards Analysis](https://github.com/danishsyed-dev/la-liga-forwards-analysis)
+
+>La Liga Forwards Analysis project
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-555555?style=flat) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
+
+</td>
+<td width="50%">
+
 ### 📂 [Python Notebook](https://github.com/danishsyed-dev/Python-notebook)
 
 >Python Notebook project
@@ -42,6 +51,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏏 [Ipl In Match Forecasting Tool Main](https://github.com/danishsyed-dev/IPL-In-Match-Forecasting-Tool-main)
@@ -49,17 +60,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >Ipl In Match Forecasting Tool Main project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚽ [La Liga Forwards Analysis](https://github.com/danishsyed-dev/la-liga-forwards-analysis)
-
->La Liga Forwards Analysis project
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-555555?style=flat) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
 
 </td>
 <td width="50%">
