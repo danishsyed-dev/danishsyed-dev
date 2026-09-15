@@ -35,6 +35,15 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 <tr>
 <td width="50%">
 
+### 🔌 [Rag Api](https://github.com/danishsyed-dev/RAG-API)
+
+>A lightweight, privacy-first API to query a knowledge base with natural language using local LLMs and vector search.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dockerfile](https://img.shields.io/badge/Dockerfile-555555?style=flat)
+
+</td>
+<td width="50%">
+
 ### 📈 [Pl Prediction Ml](https://github.com/danishsyed-dev/PL_Prediction_ML)
 
 >Pl Prediction Ml project
@@ -42,6 +51,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ⚽ [La Liga Forwards Analysis](https://github.com/danishsyed-dev/la-liga-forwards-analysis)
@@ -51,8 +62,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-555555?style=flat) ![Batchfile](https://img.shields.io/badge/Batchfile-555555?style=flat)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📂 [Python Notebook](https://github.com/danishsyed-dev/Python-notebook)
@@ -62,6 +71,8 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏏 [Ipl In Match Forecasting Tool Main](https://github.com/danishsyed-dev/IPL-In-Match-Forecasting-Tool-main)
@@ -69,17 +80,6 @@ I'm a **Computer Science Engineering** graduate specializing in **Artificial Int
 >Ipl In Match Forecasting Tool Main project
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🕷️ [Youtube Content Scraper](https://github.com/danishsyed-dev/Youtube-Content-Scraper)
-
->Youtube Content Scraper project
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
 <td width="50%" align="center" valign="middle">
